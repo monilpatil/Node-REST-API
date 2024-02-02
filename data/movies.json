@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d0",
+    "title": "The Avengers Updated",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9"
+  },
+  {
+    "id": "213976be-9157-4daa-992b-5b93f68540a6",
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "genre": "Biography, Comedy, Crime",
+    "rating": "8.2"
+  },
+  {
+    "tle": "Avatar 2",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9",
+    "id": "9017c8f4-3406-474a-a528-bac9da1675d8"
+  },
+  {
+    "title": "The Avengers endgame 2 ",
+    "year": "2019",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9",
+    "id": "f8fdb753-2510-4655-a1b8-de260ee81d1d"
+  },
+  {
+    "id": "3e6485ac-775f-46ea-9471-23fa979b5b6d",
+    "title": "The Avengers Infinite war ",
+    "year": "2019",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "9"
+  }
+]
